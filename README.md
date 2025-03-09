@@ -1,4 +1,4 @@
-## Task #1
+## 📋Task #1 
 
 
 <table>
@@ -63,7 +63,7 @@
     </tr>
 </table>
 
-### Answer
+### 🎯Answer
 
 <p>Javascript in JS folder:</p>
 
@@ -81,13 +81,13 @@
 4. dates.ts
 5. initial.ts
 
-### How to run
+### 🚀How to run
 
 - <b>Run javascript code by using node command</b> </br>
 <b>example: ``` node circle.js```</b>
 
 - <b>Run typescript code by compile typescript code using tsc command</b> </br>
-<b>then typescript would generate js code </b> </br>
-<b>for example: ``` tsc circle.ts ```</b> </br>
-<b>then circle.js code generated</b> </br>
+<b>then typescript would generate js code </b>
+<b>for example: ``` tsc circle.ts ```</b>
+<b>then circle.js code generated</b>
 <b>run circle.js use node command like above command
