@@ -1,0 +1,17 @@
+# dependencies
+**node_modules
+.idea
+
+# package lock file
+packgae-lock.json
+
+# prettier config (local only)
+prettier.config.js
+
+# prettier ignore file (local only)
+.prettierignore
+
+# vscode settings (local only)
+.vscode/settings.json
+/vscode
+yarn.lock
