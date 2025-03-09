@@ -87,7 +87,7 @@
 <b>example: ``` node circle.js```</b>
 
 - <b>Run typescript code by compile typescript code using tsc command</b> </br>
-<b>then typescript would generate js code </b>
-<b>for example: ``` tsc circle.ts ```</b>
-<b>then circle.js code generated</b>
+<b>then typescript would generate js code </b> </br>
+<b>for example: ``` tsc circle.ts ```</b> </br>
+<b>then circle.js code generated</b> </br>
 <b>run circle.js use node command like above command
